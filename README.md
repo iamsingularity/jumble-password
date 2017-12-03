@@ -1,5 +1,7 @@
 # ![jumble](https://github.com/theIYD/jumble-password/blob/master/media/logo.png)
 
+[![GitHub issues](https://img.shields.io/github/issues/theIYD/jumble-password.svg)](https://github.com/theIYD/jumble-password/issues)
+
 > Create unique id's or passwords easily.
 
 This small [`electron`](https://electronjs.org/) utility, creates unique combinations of passwords(or id's) out of your name and date of birth. The app uses the random permutation of numbers algorithm known as [`Fisher Yates Shuffle Algorithm`](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) which inshort jumbles a sequence. 
